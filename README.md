@@ -1,2 +1,2 @@
-# Data-Mining-and-Analysis-CZ4032
+# Data-Mining-and-Analysis
 Research on Consumer data using Weka
